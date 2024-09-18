@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/audrey/static/css/main.469c4d1f.css",
+    "main.css": "/audrey/static/css/main.e1edd3e1.css",
     "main.js": "/audrey/static/js/main.1eb4a159.js",
     "static/js/453.7a9c47c0.chunk.js": "/audrey/static/js/453.7a9c47c0.chunk.js",
     "static/media/audrey4.webp": "/audrey/static/media/audrey4.92b561f53bc23c861ec9.webp",
@@ -11,12 +11,12 @@
     "static/media/avis2.webp": "/audrey/static/media/avis2.8909b8d57581ca25d008.webp",
     "static/media/logo2.webp": "/audrey/static/media/logo2.81a6fcdfb4dcacd61a80.webp",
     "index.html": "/audrey/index.html",
-    "main.469c4d1f.css.map": "/audrey/static/css/main.469c4d1f.css.map",
+    "main.e1edd3e1.css.map": "/audrey/static/css/main.e1edd3e1.css.map",
     "main.1eb4a159.js.map": "/audrey/static/js/main.1eb4a159.js.map",
     "453.7a9c47c0.chunk.js.map": "/audrey/static/js/453.7a9c47c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.469c4d1f.css",
+    "static/css/main.e1edd3e1.css",
     "static/js/main.1eb4a159.js"
   ]
 }
