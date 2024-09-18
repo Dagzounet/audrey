@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/audrey/static/css/main.ad8ed0cb.css",
-    "main.js": "/audrey/static/js/main.1eb4a159.js",
+    "main.css": "/audrey/static/css/main.0a447aa7.css",
+    "main.js": "/audrey/static/js/main.363832b4.js",
     "static/js/453.7a9c47c0.chunk.js": "/audrey/static/js/453.7a9c47c0.chunk.js",
     "static/media/audrey4.webp": "/audrey/static/media/audrey4.92b561f53bc23c861ec9.webp",
     "static/media/banner4.webp": "/audrey/static/media/banner4.9baa7931e106ace8e39d.webp",
@@ -11,12 +11,12 @@
     "static/media/avis2.webp": "/audrey/static/media/avis2.8909b8d57581ca25d008.webp",
     "static/media/logo2.webp": "/audrey/static/media/logo2.81a6fcdfb4dcacd61a80.webp",
     "index.html": "/audrey/index.html",
-    "main.ad8ed0cb.css.map": "/audrey/static/css/main.ad8ed0cb.css.map",
-    "main.1eb4a159.js.map": "/audrey/static/js/main.1eb4a159.js.map",
+    "main.0a447aa7.css.map": "/audrey/static/css/main.0a447aa7.css.map",
+    "main.363832b4.js.map": "/audrey/static/js/main.363832b4.js.map",
     "453.7a9c47c0.chunk.js.map": "/audrey/static/js/453.7a9c47c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad8ed0cb.css",
-    "static/js/main.1eb4a159.js"
+    "static/css/main.0a447aa7.css",
+    "static/js/main.363832b4.js"
   ]
 }
