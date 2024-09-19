@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/audrey/static/css/main.71104af1.css",
-    "main.js": "/audrey/static/js/main.8b96cbc4.js",
+    "main.css": "/audrey/static/css/main.d3d5cf2d.css",
+    "main.js": "/audrey/static/js/main.da42be80.js",
     "static/js/453.7a9c47c0.chunk.js": "/audrey/static/js/453.7a9c47c0.chunk.js",
-    "static/media/audrey4.webp": "/audrey/static/media/audrey4.92b561f53bc23c861ec9.webp",
-    "static/media/banner4.webp": "/audrey/static/media/banner4.9baa7931e106ace8e39d.webp",
     "static/media/test4.webp": "/audrey/static/media/test4.d52ee9d83c94c9f396ea.webp",
-    "static/media/contact.webp": "/audrey/static/media/contact.3163e521fed28b7f05e1.webp",
+    "static/media/banner4.webp": "/audrey/static/media/banner4.f33ab236266fa446cb6a.webp",
     "static/media/contact2.webp": "/audrey/static/media/contact2.a1e21e92b8b6583f7210.webp",
+    "static/media/audrey4.webp": "/audrey/static/media/audrey4.7052aa417fbbd9080da5.webp",
     "static/media/test2.webp": "/audrey/static/media/test2.3acf495563035120d44f.webp",
     "static/media/logo2.webp": "/audrey/static/media/logo2.81a6fcdfb4dcacd61a80.webp",
     "index.html": "/audrey/index.html",
-    "main.71104af1.css.map": "/audrey/static/css/main.71104af1.css.map",
-    "main.8b96cbc4.js.map": "/audrey/static/js/main.8b96cbc4.js.map",
+    "main.d3d5cf2d.css.map": "/audrey/static/css/main.d3d5cf2d.css.map",
+    "main.da42be80.js.map": "/audrey/static/js/main.da42be80.js.map",
     "453.7a9c47c0.chunk.js.map": "/audrey/static/js/453.7a9c47c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71104af1.css",
-    "static/js/main.8b96cbc4.js"
+    "static/css/main.d3d5cf2d.css",
+    "static/js/main.da42be80.js"
   ]
 }
